@@ -1,7 +1,5 @@
 # SOLID-principles-with-real-world-examples-and-best-practices
 
-https://www.boxpiper.com/static/433c2c22a5faafa867405b40da29b2ab/be464/solid-design-principle-1.jpg
-
 SOLID is an acronym for five fundamental design principles in object-oriented programming and design. These principles help in creating software that is easy to manage, extend, and understand. The SOLID principles were introduced by Robert C. Martin, also known as Uncle Bob, and they are widely adopted in modern software engineering.
 Here's an introduction to each principle:
 
